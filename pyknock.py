@@ -34,7 +34,7 @@ def settings():
     # e2.grid(row=0, column=3)
     #knock_input.focus()
 
-
+# Teszt
 # ============================= Főprogram =====================================
 
 root = Tk()
